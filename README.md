@@ -1,1 +1,1 @@
-"# AngularDotnetCoreCleanArchitecture" 
+"#AngularDotnetCoreCleanArchitecture" 

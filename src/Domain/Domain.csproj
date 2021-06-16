@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AngularDotNetCoreCleanArchitecture.Domain</RootNamespace>
+    <AssemblyName>AngularDotNetCoreCleanArchitecture.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
